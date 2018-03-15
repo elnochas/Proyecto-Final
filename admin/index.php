@@ -1,7 +1,7 @@
 <?php
 include_once("../config.php");
 
-$query = "SELECT * FROM producto inner join fabricante on producto.codigo = fabricante.codigo";
+$query="SELECT * FROM producto where codigo=producto.codigo";
 $result = mysqli_query($mysqli, $query);
 // print_r($result);
 ?>

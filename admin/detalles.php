@@ -16,7 +16,7 @@ $result=mysqli_query($mysqli, $query);
 </head>
 
 <body>
-<h2><a href="/admin/index.php">Volver atras</a></h2>
+<h2><a href="/admin/index.php">Volver atr&aacute;s</a></h2>
 </br>
 <h3> Articulo</h3>
 
