@@ -27,6 +27,9 @@ CREATE TABLE producto (
 
 INSERT INTO usuario VALUES (1, 'usuario@usuario.es', 'f8032d5cae3de20fcec887f395ec9a6a', 'Usuario');
 
+INSERT INTO usuario VALUES (2, 'elnochas3443@gmail.com', '0aaf86a8243d69fbd57d96d47479b7c1', 'elpanocha23');
+
+
 INSERT INTO fabricante VALUES(1,'Asus');
 INSERT INTO fabricante VALUES(2,'Lenovo');
 INSERT INTO fabricante VALUES(3,'Hewlett-Packard');
@@ -43,8 +46,4 @@ INSERT INTO producto VALUES(3,'Disco SSD 1 TB', 150, 4, 'images/ssdsamsung.png',
 INSERT INTO producto VALUES(4,'GeForce GTX 1050Ti',185, 7, 'images/tar.png', 'GeForce GTX 1050 Ti OC 4G. PCIE 3.0 / 4 GB GDDR5 128bit 7.08GHz / 1455MHz / 768 cuda cores / DVI+HDMI+DP. Para el correcto funcionamiento de esta tarjeta gr&aacute;fica es necesario disponer de un bus PCI-ex 16x y una buena calidad de suministro de energ&iacute;a y la eficiencia en al menos 500W. Adem&aacute;s para la correcta instalaci&oacute;n de los controladores de v&iacute;deo debe estar instalado para actualizar Windows 10 Anniversary Update versi&oacute;n 1067.','Grafica');
 INSERT INTO producto VALUES(5,'GeForce GTX 1080 Xtreme',755, 6, 'images/cru.png', 'Series GV-N1080AORUS X11-8GDPeso del producto 998g -Dimensiones del producto 27 x 5 x 12 cm','Grafica');
 INSERT INTO producto VALUES(6,'Monitor 24 LED Full HD',202, 1, 'images/asus.png', 'Incluye una pareja de altavoces est&eacute;reo ocultos Monitor Full HD de 24" con 1 ms de tiempo de respuesta para eliminar las im&aacute;genes borrosas y ofrecer una acci&oacute;n totalmente fluida.Opciones de conectividad: HDMI, DVI-D y D-Sub Altavoces con 1 W de potencia','Monitor 24 LED Full HD');
-INSERT INTO producto VALUES(7,'Monitor 27 LED Full HD',245, 1, 'images/asus27.png', 'Inspirado en un legado art&iacute;stico milenario, la nueva serie Designo MX incorpora un diseño muy elegante marcado por un panel sin marco con un &aacute;ngulo de visi&oacute;n de 178 grados','Monitor 27 LED Full HD');
-INSERT INTO producto VALUES(8,'Portatil Yoga 520',559, 2, 'images/lenovo.png', 'bla bla...','Portatil');
-INSERT INTO producto VALUES(9,'Portatil Ideapd 320',444, 2, 'images/descarga.png', 'bla bla...','Portatil');
-INSERT INTO producto VALUES(10,'Impresora HP Deskjet 3720',59, 3, 'images/hp.png', 'bla bla...','Impresora');
-INSERT INTO producto VALUES(11,'Impresora HP Laserjet Pro M26nw',180, 3, 'images/hp1.jpg', 'bla bla...','Impresora');
+INSERT INTO producto VALUES(7,'Monitor 27 LED Full HD',245, 1, 'images/asus27.png', 'Inspirado en un legado art&iacute;stico milenario, la nueva serie Designo MX incorpora un dise&ntilde;o muy elegante marcado por un panel sin marco con un &aacute;ngulo de visi&oacute;n de 178 grados','Monitor 27 LED Full HD');

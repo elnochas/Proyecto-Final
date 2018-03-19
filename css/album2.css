@@ -1,0 +1,8 @@
+:root {
+  --jumbotron-padding-y: 3rem;
+}
+
+body {
+  background-image: url("../images/fondo.jpg");
+} 
+

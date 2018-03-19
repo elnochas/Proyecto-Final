@@ -22,7 +22,7 @@ $result=mysqli_query($mysqli, $query);
 
 	<?php
     echo "<table width='80%' border=2>";
-	echo"<tr bgcolor='yellow'>";
+	echo"<tr bgcolor='aqua'>";
 	echo "<td>Codigo</td>";
 	echo "<td>Nombre</td>";
 	echo "<td>Precio</td>";
